@@ -1,0 +1,8 @@
+
+{
+java:S6242"8Set the credentials provider explicitly on this builder.(á …î8ÉøÓ¿ê2J$f49d484a-cda4-4b01-80be-1d9396bb9c3c
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(ƒÉ´Óüÿÿÿÿ8šüÔ¿ê2J$1f83d612-cf9c-4334-90bd-3a4ca357275a
+ 
+java:S1128"XRemove this unused import 'software.amazon.awssdk.auth.credentials.AwsBasicCredentials'.(Ø¾ªİÿÿÿÿÿ8üÔ¿ê2J$0b553f69-5edf-4d96-b564-9dcb6530cf8e
+¦
+java:S1128"^Remove this unused import 'software.amazon.awssdk.auth.credentials.StaticCredentialsProvider'.(Ï‹¹şÿÿÿÿ8üÔ¿ê2J$04ec3df6-9c69-455c-b4ca-a2fdec313a1e

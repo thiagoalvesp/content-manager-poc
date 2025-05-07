@@ -1,0 +1,5 @@
+
+	java:S112P"FDefine and throw a dedicated exception instead of using a generic one.( şòëÿÿÿÿÿ8†â¦¿ê2J$2495c159-2773-4c07-b8ac-a26e0641e5d2
+	java:S112l"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8†â¦¿ê2J$d6a68363-bde5-437c-a294-38ef4692968a
+½
+java:S62044"zReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()' and ensure that the list is unmodified.(ª™¨¹8¤â¦¿ê2J$e5021924-cf1c-4268-bdab-008964a2bd64
